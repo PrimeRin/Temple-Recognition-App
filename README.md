@@ -17,9 +17,8 @@ Following are temples that we selected
   
   <h2>App overview</h2>
   <h5>1.Splash screen<h5>
-  <p align="center">
-  <img src="https://drive.google.com/file/d/1hXN7IWTMOFt4y39SQtCk67xJFipJXVd-/view?usp=share_link" width="350" title="hover text">
-</p>
+  ![alt text](https://drive.google.com/file/d/1Shafgx27RtdKjVC8-ckYwuD_auhmWW05/view?usp=share_link)
+  
   
   
   

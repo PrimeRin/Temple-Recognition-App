@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Temple Recognition</string>
+    <string name="about_us">This app is developed as the mini project for Artificial Intelligence Module in the year 2022 spring Autumn Semester. This app will detect some of the 10 popular Lhakhang’s in Bhutan. Which are as follows :</string>
+    <string name="temple_name">
+                                1.  Changangkha Lhakhang  \n
+                                2.  Dechenphu Lhakhang     \n
+                                3.	Dema Lhakhang        \n
+                                4.	Pangrizampa Lhakhang \n
+                                5.	Parotaktshang \n
+                                6.	Milarepa Lhakhang\n
+                                7.	Dechen Phodrang \n
+                                8.	Jampa Lhakhang \n
+                                9.	Kurjay Lhakhang \n
+                                10.	Chimi Lhakhang \n
+    </string>
+
+    <string name="developer">
+        1.Tshering Wangchuk(CST, Fourth Year, IT)\n
+        2.Tashi Namgay(CST, Fourth Year, IT)\n
+        3.Pema Rinchen(CST, Fourth Year, IT)\n
+    </string>
+
+    <string name="changangkha">
+	Changangkha Lhakhang is a compact temple complex located on the tip of a ridge that juts towards central Thimphu from the hills to the east. Founded in the 13th or 14th centuries, it is probably the oldest surviving temple in Thimphu. The main components and foundations of the monastery are extremely old, long predating the unification of Bhutan in the 17th century by Zhabdrung Ngawang Namgyal. \n \n
+        Changangkha Lhakhang was founded in the 13th C by Nyima, one of the sons of Phajo Drugom Zhigpo who first introduced the teachings of the Drukpa Kagyu tradition of Himalayan Buddhism to Bhutan, and who is revered as an emanation of Avalokiteśvara.
+    \n \n  Upon reaching the plains of Lobesa, Loro Duem morphed herself into a dog to disguise herself. However, Drukpa Kunley recognised Loro Duem and subdued her with his “Thunderbolt of Flaming Wisdom” which is said to be the phallus, thus, the symbol of Chimi Lhakhang. Drukpa Kunley then buried the demoness under the mould of a hill that resembles the breast of a woman. He then uttered the word ‘Chime’ which means ‘no dog’ and built a black chorten on top of the mould.
+    </string>
+
+    <string name="chimi">
+    Chimi Lhakhang was built in 1499 by Ngawang Choegyel, the 14th Drukpa hierarch. However, it was Drukpa Kunley (1455–1529), the maverick saint (also known as the ‘Divine Madman’) who first built a chorten at the site. \n
+        \n According to local myth, a vile demoness by the name of Loro Duem resided in the high pass of Dochu La and she used to terrorise all those who attempted to cross this pass. There were two other demonesses who lived in two smaller passes. As a result, the folks in the valley lived in constant fear and misery. \n \n
+        When Drukpa Kunley first stepped foot in Bhutan, he heard about these demonesses and the sufferings they have been causing. Thus, he made his way to Dochu La and upon his arrival, the three demonesses recognised him and his divine power. They tried escaping to the valley but two of the demonesses ‘dissolved’ into the body of Loro Duem.
+    </string>
+
+    <string name="dechenphu">
+    Dechenphu lhakhang is located at the north end of Thimphu, capital city of Bhutan. Dechenphu monastery is a sacred home of Gyenyen Jakpa Melan, powerful protective deity of Bhutan. According to the legend, the protective deity Gyenyen Jakpa Melan is believed to have sunk or entered into a rock in front of the lhakhang which is now safeguarded inside a small stupa and has a shape of hill, hence “Thimphu”, Thim (sink) and Phu (hill).
+    \n \n	The one who seeks protection from the powerful deity is believed to be bestowed instantly and hence Dechenphu lhakhang is one of the most visited temple in the country.
+    \n \n Dechenphu lhakhang also houses annual festival which is mainly dedicated to Gyenyen Jakpa Melan. Some of sacred dances performed during the festival include Shazam Cham (dance), Gyenyen Kunchaam and Zhananga Cham(justlanded, 2022).
+    </string>
+
+    <string name="dema">
+Dema Lhakhang is located near the Pangrizampa Lhakhang in Thimphu. It is one of the few Lhakhang that is built recently. However, it is one of the beautiful and magnificent temple where many people visit the Lhakhang in regular basis. It is located 8km north of the Thimphu. Lhakhang are religious structures (temples) found throughout the Himalayas (Nepal, Bhutan) that house sacred objects, and in which religious activities take place. Lhakhang means "the house of gods": enlightened beings such as the Buddha, his followers, and other deities. \n \n With over two thousand lhakhangs (temples) and goenpa (monasteries) in Bhutan, they can be found in almost every village and on almost every mountain top in the country. Although they do not match the soaring proportions of the dzongs, many lhakhang and goenpa are older than dzongs, with some dating as far back as the seventh century.
+    </string>
+
+    <string name="pangrizampa">
+        Located around 8 km north of Thimphu is the institute of traditional astrology. It is the only college of astrology in the Himalayan kingdom of Bhutan. The founder of Pangri Zampa Monastery named the temple as Druk Phodrang. It means the ‘castle of Dragon’. When Zhabdrung Ngawang Namgyal (Unifier of Bhutan) arrived Bhutan in 1616 AD, a group of five lamas of different religious sects was its owner. However, they abandoned the monastery with fear of the growing power of Zhabdrung. So its name became Pangri Lhakhang temple on an abandoned mountain. It is now an educational institute of the central monastic body for learning traditional astrology of Bhutan.
+    </string>
+
+    <string name="paro_taksang">
+        Paro Taktsang (Dzongkha: སྤ་གྲོ་སྟག་ཚང་, also known as the Taktsang Palphug Monastery and the Tiger Nest),is a sacred Vajrayana Himalayan Buddhist site located in the cliffside of the upper Paro valley in Bhutan. It is one of thirteen Tiger Nest caves in historical Tibet in which Padmasambhava practiced and taught Vajrayana. 
+        \n \n A later monastery complex was built in 1692, around the Taktsang Senge Samdup cave, where Guru Padmasambhava meditated and practiced with students including Yeshe Tsogyal before departing the kingdom of Tibet in the early 9th century. Padmasambhava is credited with introducing Vajrayana Buddhism to Bhutan, which was then part of Tibet, and is the tutelary deity of the country. Today, Paro Taktsang is the best known of the thirteen taktsang or "tiger lair" caves in which he and his students meditated.
+    </string>
+
+    <string name="milarepa">
+        Most people know the story of the famous Tibetan saint who learned black magic in his early life to take revenge on enemies but later became a disciple of the great translator Marpa, who had brought many sacred texts back from India. Knowing that his new student had accumulated bad karma, Marpa treated him harshly and made him build a nine-storey tower (Sekhar Guthok) with his bare hands. When it was nearly finished, he told him to move it to another location. This happened a few times until Milarepa had removed his bad karma.
+       \n \n Later, he went off to meditate in mountain caves and became enlightened in one lifetime. Milarepa is a shining example of the virtues of renunciation, diligent practice and devotion to his guru(Heavenlybhutan, 2022).
+    </string>
+
+    <string name="dechenphodrang">
+        At the end of Gaden Lam is the Dechen Phodrang, the site of Thimphu’s original dzong. Since 1971 it has been the state monastic school, where an eight-year course to almost 500 monk students is provided. The 12 century paintings in the monastery’s Guru Lhakhang have been restored and the upper floor features a large figure of Zhabdrung Ngawang Namgyal as well as a goenkhang (chapel dedicated to protective deities and only men are allowed inside it). Dechen Phodrang literally means palace of the great bliss.
+    </string>
+
+    <string name="jampa">
+        The Jambay Temple (Tibetan: བྱམས་པའི་ལྷ་ཁང, Wylie: byams pa, Jampé Lhakhang) or Temple of Maitreya is located in Bumthang (Jakar) in Bhutan, and is said to be one of the 108 temples built by Tibetan King Songtsen Gampo in 659 CE on a single day, to pin down an ogress to earth forever.
+        \n \n It was divined that the supine demoness was causing obstruction to the spread of Buddhism, and temples were constructed on her body parts that spread across Tibet, Bhutan and the borderlands. The best known of these temples are Jokhang in Lhasa, Kichu in Paro, Bhutan and Jambay Lhakhang in Bumthang District, Bhutan.
+        \n \n Other, lesser-known temples in Bhutan have been destroyed, but it is believed that, among others, Kongchogsum in Bumthang, Khaine in Lhuntse and two temples in Haa District may have part of these 108 temples. Jambay Lhakhang was visited by Padmasambhava and restored by King Sindhu Raja after the former returned his life force(bumthang, 2019).
+    </string>
+
+    <string name="kurjey">
+        Kurjey Lhakhang (one of the well-known Bumthang Attractions) consists of three buildings facing south. The first building on the right (faces to the East) is the oldest one constructed on the rock where saint Guru Rinpoche meditated by King Sendha after his conversion to Buddhism in Bumthang. In 1652, the first building was rebuilt by Minjur Tenpa while he was Trongsa Penlop – before becoming the third Desi of Bhutan.
+    \n \n The second building named the Sampa Lhundrup temple was structured in 1900 by The first King of Bhutan Ugyen Wangchuck. This building is home to a monumental statue of saint Guru Rinpoche followed right after the advice of the great Nyingmapa Lama, Rigzin Khamsum Yondrol, the Bakha Trulku.
+        \n \n The third building of Kurjey Lhakhang, also known as the Ka Gon Phur sum Lhakhang consecrated in June 1990 by the master Dilgo Khyentse Rinpoche. This new Lhakhang was undertaken by the Queen Mother – Mayumi Choying Wangmo Dorji in 1984 under the advice of Dilgo Khyentse Rinpoche(Gobhutantours, 2019).
+    </string>
+
+</resources>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/pa"
+    tools:context=".predictActivity"
+    >
+
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/backg"
+        android:layout_marginBottom="50dp"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="40dp"
+            >
+
+            <ImageView
+                android:id="@+id/foter"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:src="@drawable/footerr"
+                />
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="10dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50dp"
+                app:cardCornerRadius="10dp"
+                >
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="290dp"
+                    android:layout_height="290dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentTop="true"
+                    android:visibility="gone"
+                    />
+            </androidx.cardview.widget.CardView>
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/btn_round"
+                android:text="Open Camera"
+                android:layout_below="@id/foter"
+                android:layout_marginTop="20dp"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button2"
+                android:text="Open Gallery"
+                android:layout_below="@id/button"
+                android:textAllCaps="false"
+                android:background="@drawable/btn_round"
+                android:textSize="18sp"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Name of Temple"
+                android:fontFamily="@font/popin"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                android:id="@+id/classified"
+                android:layout_below="@+id/card"
+                android:layout_marginTop="20dp"
+                android:visibility="gone"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text=""
+                android:textAlignment="center"
+                android:textColor="#C30000"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:id="@+id/result"
+                android:layout_below="@+id/classified"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:id="@+id/description1"
+                android:layout_below="@+id/result"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                />
+
+            <Button
+                android:id="@+id/more"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/description1"
+                android:background="@drawable/btn_round"
+                android:layout_marginRight="40dp"
+                android:layout_marginLeft="40dp"
+                android:text="View More"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                android:visibility="invisible"
+                />
+
+            <ImageView
+                android:id="@+id/foterr"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_below="@id/button2"
+                android:src="@drawable/footer" />
+        </RelativeLayout>
+    </ScrollView>
+
+
+    <com.google.android.material.bottomappbar.BottomAppBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:id="@+id/bottomAppBar"
+        app:fabCradleMargin="10dp"
+        android:fontFamily="@font/popin"
+        app:fabCradleRoundedCornerRadius="10dp"
+        app:fabCradleVerticalOffset="10dp"
+        >
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/bottomNavigationView"
+            android:layout_marginRight="16dp"
+            app:menu="@menu/bottom_nav_bar"
+            app:labelVisibilityMode="labeled"
+            android:background="@drawable/background_buttom_nav"
+            />
+    </com.google.android.material.bottomappbar.BottomAppBar>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/camera_icon"
+        app:layout_anchor="@id/bottomAppBar"
+        />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

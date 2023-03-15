@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/drawable-v24/bg.xml" value="0.1" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/drawable/background_buttom_nav.xml" value="0.188" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/drawable/background_custom.xml" value="0.1" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/drawable/btn_round.xml" value="0.1135" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/drawable/ic_launcher_background.xml" value="0.188" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/drawable/menu_selector.xml" value="0.1" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/drawable/search_bg.xml" value="0.1515" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/activity_aboutus3.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/activity_explore3.xml" value="0.13595553655408293" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/activity_main2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/activity_myplan.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/activity_predict.xml" value="0.1" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/custom_dialog.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/layout/singlerow.xml" value="0.1" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/menu/bottom_nav_bar.xml" value="0.1466438648995297" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/menu/mainmenu.xml" value="0.1" />
+        <entry key="..\:/Users/Prime/AndroidStudioProjects/GroupWork/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

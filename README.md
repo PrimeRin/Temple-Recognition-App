@@ -17,7 +17,8 @@ Following are temples that we selected
   
   <h2>App overview</h2>
   <h5>1.Splash screen<h5>
-  ![alt text](https://drive.google.com/file/d/1Shafgx27RtdKjVC8-ckYwuD_auhmWW05/view?usp=share_link)
+  ![Screenshot_2023_0316_031159](https://user-images.githubusercontent.com/88672332/225449951-a06a0ad4-844d-470c-92d5-3295beb6324a.jpg)
+
   
   
   
